@@ -1,4 +1,5 @@
 '''
+Author:       Tebogo Kgopa
 A script for checking lotto numbers after sorting the original CSV file
 and extracted the columns that will be used for the number generator 
 '''
